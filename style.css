@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+h1{
+    margin: 2rem;
+}
+h2{
+    margin: 2rem;
+}
+.btn{
+    height: 12.5rem;
+    width: 12.5rem;
+    border-radius: 20%;
+    border: 2px solid black;
+    margin: 2rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Setting the color for the div  */
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color:#d95980;
+}
+.purple{
+    background-color : #ed4cff
+}
+.green{
+    background-color: #63aac0;
+}
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: rgb(4, 255, 117);
+}
